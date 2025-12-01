@@ -1,0 +1,11 @@
+python-dotenv
+mistralai==1.2.3
+langchain
+langchain-community
+langchain-mistralai
+langchain-text-splitters
+faiss-cpu
+pdfplumber
+pdf2image
+pillow
+gradio
